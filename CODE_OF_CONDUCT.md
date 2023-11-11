@@ -1,1 +1,3 @@
+# Code of conduct
 
+Everyone should behave with common sense in regards to everything...
